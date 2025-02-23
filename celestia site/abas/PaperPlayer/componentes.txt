@@ -1,0 +1,22 @@
+	Informações protegidas por patentes
+PaperPlayer previsões de componentes:
+
+1	tela tft 10.1 polegadas
+1	microcontrolador pic16f877a 8 bits 
+1	bateria 5V 3000mh 
+4	botoes push bottom
+1	conector usb-c
+1	entrada de cartão sd
+1	botao de iniciar
+1	buzzer piezo
+1	placa pcb
+
+não	acesso a internet
+não	bluetooth
+não	output por pinos
+nao	sistema de refrigeramento
+
+sim	bateria trocavel
+sim	conecção via cabo usb
+sim	armazenamento de codigos (ate 100 ou 150 kb)
+sim	portatil
