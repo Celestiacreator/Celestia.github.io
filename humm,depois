@@ -1,0 +1,128 @@
+  <div class="texto">
+                <h1>Projetos atuais
+              </div>
+            </div>
+            <div class="conteudo" id="cont">
+               <div class="anopro">
+                <div class="paperplayer33">
+
+                  <div class="titulo">
+                    <h1>PaperPlayer</h1>
+                     <h2>etapas de criação e previsões pessoais</h2>
+                  </div>
+                  <div class="imagem">
+                    <img src="imagens/Screenshot_1.png" alt="Paperplayerimagem">
+                    
+
+                  </div>
+
+                  <div class="texto4"></div>
+                  <h1>etapas de criação:</h1>
+                   <h1>projeto online:</h1>
+                    <h3>faço o projeto em simuladores gratuitos para entender qual a melhor arquiquetura de circuito
+                      para os principios do projeto
+                    </h3>
+                    <h1>execução do projeto de forma fisica</h1>
+                     <h3>a parte aonde compro todos componentes fisicos para testes de atuação</h3>
+                     <h1>polimento de desigh</h1>
+                      <h3>começo a pensar em um desigh que se acomodaria de forma mais industrial no bolço de alguem,
+                        começo a fazer a encomenda da carcaça do projeto e por fim dou uma polida no codigo e no sistema
+
+                      </h3>
+                      <h1>venda pelos correios</h1>
+                       <h3>queria a venda des do inicio fosse de forma indepedente, "compre direto do site sem se assustar
+                        com os preços" é a ideia que eu quero passar.
+                       </h3>
+
+                       <div class="opntexxt">
+                        <h1>minha opnião sobre o projeto</h1>
+                         <h2>no inicio eu acredito que muita pouca gente iria confiar em algo mais "caseiro", queria muito que
+                          as pessoas tenham novas ferramentas para ajuda-las na programação e se tornarem independetes mais rapido, estive
+                          pensando nisso esses ultimos dias, de acontecer o contrario e minha invenção so for usada para resultados mais rapidos e faceis,
+                          enquanto a isso, não tenho uma solução, seu uso é diverso, depende da mentalidade de quem o consome.
+                            Enquanto o meu projeto fisico ser mais economico do que um sofware de computador, saiba que sua vantagem
+                          é ser portatil e simples, mais barato do que um notebook e celular, carrega da casa para o trabalho na palma da mão
+                          
+                         </h2>
+                       </div>
+                </div>
+               </div>
+
+                <div class="colison">
+                  <div class="tituloclo1">
+                    <h1>Sistema operacional para portateis</h1>
+                     <h2>Sistema colison e seus principios</h2>
+                  </div>
+
+                  <div class="textoclo1">
+                    <h3>O sistema de controle do atual portatil sendo feito (PaperPlayer) é nomeado de "colison", fazendo 
+                      referencia a palavra colisão, algo forte, um impacto, programado em c++, tem sua
+                      principal função comparar blibiotecas e compilações, com suporte para um sofware de execução
+                      local do computador do proprio usuario, servindo para mostrar valores e para realizar a troca
+                      de blibiotecas de codigo.
+                    </h3>
+
+                    
+                  </div>
+                  <div class="colison invader">
+                    <div class="tituloclo2">
+                      <h1>sistema de controle local do PaperPlayer </h1> 
+                       <h2>sistema colison invader e seus principios</h2>
+                    </div>
+                    <div class="textoclo">
+                      <h3> O sistema colison invader foi pensado para monitor o dispositivo movel pelo computador,
+                      sendo possivel realizar a troca de blibiotecas, visualizar notas, logs e valores serial,
+                      sendo simples e leve, serve para carregar seu codigo e a blibioteca do mesmo para placa,
+                      se possivel, no projeto final, esse carregamento pode chegar a ocorrer por bluetooth ou wifi,
+                      mas, por equanto, esperamos uma conecção usb normal.</h3>
+                    </div>
+
+                    
+                  </div>
+                </div>
+                <div class="quadrantes">
+                  <div class="sobremim">
+                    <h1>sobre mim</h1>
+                     <h2> sou interessado na eleronica dés dos meus 9 anos e venho estudando a mesma até os dias atuais,
+                      sempre tiro uma parte do meu tempo para tentar aprender mais e mais um pouco sobre hardware e sofware, 
+                      no momento, o que tenho condições de fazer e estudar é sofware, usando programas gratis e vendo videos no youtube
+                      eu consigo aprender bastante, e no momento, eu procuro estudar sobre css, ja que é a linguagem de sistema MCU, como
+                      os Microcontroladores, no momento eu estou procurando continuar na fase dos microcontroladores para depois, puxar para os
+                      processadores, agora, não tenho um bom investimento para poder obter os recursos mais profissionais, mas
+                      tento me virar com o que tenho, como peças de computadores antigos, que acabo achando na rua, faço isso des de bem novo
+                      tentado concerta-los com tudo que tinha, por mas que eu não sabia de muita coisa, essa fase foi essencial para
+                      saber o que eu sei hoje, atualmente, eu procuro usar recursos de robotica do meu proprio colegio para apreder conceitos
+                      e outros recursos da programação.
+                     </h2>
+                  </div>
+                  <div class="comosurgiuclo5">
+                    <h1>Como surgiu a ideia ?</h1>
+                     <h1>Pensar no como surgiu essas ideia de aparelhos e marcas ja é bem simples, quando eu descobri os microcontroladores
+                      durante o inicio das ferias do sexto ano, fiquem bem empolgado após perceber que podia fazer projetos como esses
+                      que estão estampados na abas de, quanto mais fui aprendendo, mais ideia foram surgindo
+                      infelizmente, muitas delas ainda não podem sair do papel, seja por falta de conhecimento ou investimento, criei e programei esse
+                      site sozinho, como forma de atrair pessoas que se interessam pelas minhas ideias e estejam dispostas a investir nelas, no momento,
+                      so consigo permanecer na simplicidade e esperar o momento certo, quer dizer, todo momento é certo, apenas tenho que encontrar para o que 
+                      realmente quero.
+                     </h1>
+                  </div>
+
+                
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+            </div>
+          </div>
+
+</body>
+
+</html>
+
+          </body>
+          
+            
+          
+
+         
